@@ -1,4 +1,7 @@
 # React-Weather-App
 
-1. Installed node.
-2. sending react libaries
+## Instructions
+
+1. type `cd my-todo-list`
+2. `npm start`
+3. check browser
