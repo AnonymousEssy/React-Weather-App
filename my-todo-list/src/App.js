@@ -20,8 +20,8 @@ const App = () => {
 
   return (
     <div className="app">
-      <h1>To-Do List</h1>
-      <TodoForm addTodo={addTodo} />
+      <h1>To do TodoList5</h1>
+      <TodoForm addTodo={add todo} />
       <TodoList todos={todos} removeTodo={removeTodo} />
     </div>
   );
